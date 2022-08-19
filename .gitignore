@@ -1,0 +1,4 @@
+node_modules
+keycloak.json
+dist
+.env
